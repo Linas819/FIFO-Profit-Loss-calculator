@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FIFO Profit Loss Calculator/1.0.0": {
+        "runtime": {
+          "FIFO Profit Loss Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FIFO Profit Loss Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

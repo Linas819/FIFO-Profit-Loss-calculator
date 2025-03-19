@@ -1,0 +1,16 @@
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\bin\Debug\net8.0-windows\FIFO Profit Loss Calculator.exe
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\bin\Debug\net8.0-windows\FIFO Profit Loss Calculator.deps.json
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\bin\Debug\net8.0-windows\FIFO Profit Loss Calculator.runtimeconfig.json
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\bin\Debug\net8.0-windows\FIFO Profit Loss Calculator.dll
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\bin\Debug\net8.0-windows\FIFO Profit Loss Calculator.pdb
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\obj\Debug\net8.0-windows\FIFO_Profit_Loss_Calculator.Form1.resources
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\obj\Debug\net8.0-windows\FIFO Profit Loss Calculator.csproj.GenerateResource.cache
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\obj\Debug\net8.0-windows\FIFO Profit Loss Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\obj\Debug\net8.0-windows\FIFO Profit Loss Calculator.AssemblyInfoInputs.cache
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\obj\Debug\net8.0-windows\FIFO Profit Loss Calculator.AssemblyInfo.cs
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\obj\Debug\net8.0-windows\FIFO Profit Loss Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\obj\Debug\net8.0-windows\FIFO Profit Loss Calculator.dll
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\obj\Debug\net8.0-windows\refint\FIFO Profit Loss Calculator.dll
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\obj\Debug\net8.0-windows\FIFO Profit Loss Calculator.pdb
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\obj\Debug\net8.0-windows\FIFO Profit Loss Calculator.genruntimeconfig.cache
+C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\obj\Debug\net8.0-windows\ref\FIFO Profit Loss Calculator.dll
