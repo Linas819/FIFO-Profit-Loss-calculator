@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FIFO Profit Loss Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a041a0f0a64433f2d58e3f4d55f20b27105be281")]
 [assembly: System.Reflection.AssemblyProductAttribute("FIFO Profit Loss Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FIFO Profit Loss Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

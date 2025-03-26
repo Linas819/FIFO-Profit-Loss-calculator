@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FIFO_Profit_Loss_Calculator
-build_property.ProjectDir = C:\Users\Linas\source\FIFO Profit Loss Calculator\FIFO Profit Loss Calculator\
+build_property.ProjectDir = C:\Users\Linas\source\FIFO-Profit-Loss-calculator\FIFO Profit Loss Calculator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
